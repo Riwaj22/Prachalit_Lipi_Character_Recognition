@@ -1,6 +1,13 @@
 # Prachalit_Lipi_Character_Recognition
 
-It is an CNN Based Digitization of Prachalit Lipi(Ancient Script popular among Newari community of Nepal). This project is an ongoing project being done as amjor project for completion of Bachelor of Engineering in Electronics,Communication and Information.
+Many manuscripts and inscriptions were written historically, spanning several centuries
+in Kathmandu valley, by the indigenous Newar people, who developed their own alpha-
+betic writing system. The process of identification and recognition is an difficult task.
+So, due to recent developments in AI, many languages and scripts have developed the
+Optical Character Recognition for recognizing the handwritten scripts and digitizing the
+script through the use of VGG Convolutional Neural Network(CNN) Thus, to develop
+OCR for Newari language and subsequent scripts used, we have prepared the project
+”Prachalit Lipi Character Recognition Using Deep Convolutional Neural Network”
 
 Screenshots:
 
